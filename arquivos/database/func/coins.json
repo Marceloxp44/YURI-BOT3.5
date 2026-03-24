@@ -1,0 +1,52 @@
+[
+  {
+    "grupo": "120363417696345206@g.us",
+    "usus": [
+      {
+        "id": "5521967040978@s.whatsapp.net",
+        "coins": 35,
+        "data": "31/03/2025",
+        "chances": {
+          "cassino": 0,
+          "minerar": 0,
+          "bet": 1
+        }
+      },
+      {
+        "id": "558299668686@s.whatsapp.net",
+        "coins": 70,
+        "data": "06/04/2025",
+        "chances": {
+          "cassino": 0,
+          "minerar": 0,
+          "bet": 0
+        }
+      },
+      {
+        "id": "558282081066@s.whatsapp.net",
+        "coins": 35,
+        "data": "06/04/2025",
+        "chances": {
+          "cassino": 0,
+          "minerar": 0,
+          "bet": 0
+        }
+      }
+    ]
+  },
+  {
+    "grupo": "120363423237994229@g.us",
+    "usus": [
+      {
+        "id": "184920488026243@lid",
+        "coins": 35,
+        "data": "02/03/2026",
+        "chances": {
+          "cassino": 0,
+          "minerar": 0,
+          "bet": 0
+        }
+      }
+    ]
+  }
+]
