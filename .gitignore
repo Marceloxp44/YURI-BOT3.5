@@ -1,1 +1,6 @@
+git rm -r --cached arquivos/database
+git rm -r --cached temp
+git rm -r --cached arquivos/database/assets
+git rm --cached settings/creds.json
+git rm --cached package-lock.json
 node_modules/
